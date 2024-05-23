@@ -33,13 +33,13 @@ header {
 }
 
 .logo {
-    width: 150px;
+    width: 200px;
     height: auto;
     margin-left: 10px;
 }
 @media (min-width: 768px) {
     .logo {
-        width: 150px;
+        width: 300px;
     }
 }
 /* medium */
@@ -51,7 +51,7 @@ header {
 /* large */
 @media (min-width: 1200px) {
     .logo {
-        width: 350px;
+        width: 300px;
     }
 }
 main {
